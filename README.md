@@ -11,7 +11,7 @@ Data Collection and Preparation:
 Gathered road accident data from sources such as government databases, police reports, or traffic authorities.
 Cleaned and transformed the data to ensure consistency and accuracy for analysis.
 Dashboard Design:
-
+ 
 Designed an intuitive and visually appealing dashboard layout in Tableau.
 Incorporated interactive elements such as filters, parameters, and tooltips for enhanced user experience.
 Geospatial Analysis:
