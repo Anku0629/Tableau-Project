@@ -5,7 +5,7 @@ Objective:
 Create an interactive dashboard in Tableau to analyze road accident data, identify trends, and visualize key insights for stakeholders, policymakers, and the public.
 
 Key Activities:
-
+ 
 Data Collection and Preparation:
 
 Gathered road accident data from sources such as government databases, police reports, or traffic authorities.
