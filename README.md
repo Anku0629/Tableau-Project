@@ -7,7 +7,7 @@ Create an interactive dashboard in Tableau to analyze road accident data, identi
 Key Activities: 
  
 Data Collection and Preparation:
-
+ 
 Gathered road accident data from sources such as government databases, police reports, or traffic authorities.
 Cleaned and transformed the data to ensure consistency and accuracy for analysis. 
 Dashboard Design:
