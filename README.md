@@ -1,4 +1,4 @@
-# Tableau-Project...
+# Tableau-Project..
 Tableau Road Accident Project Overview
 
 Objective:
