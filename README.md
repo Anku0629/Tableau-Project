@@ -1,5 +1,5 @@
 # Tableau-Project 
-Tableau Road Accident Project Overview.
+Tableau Road Accident Project Overview
 
 Objective:
 Create an interactive dashboard in Tableau to analyze road accident data, identify trends, and visualize key insights for stakeholders, policymakers, and the public.
